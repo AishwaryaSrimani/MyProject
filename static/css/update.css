@@ -1,0 +1,41 @@
+h1 {
+    color: rgb(19, 19, 95);
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+}
+h5 {
+    color:black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+p {
+    color:black;
+    text-align: center;
+    font-family: 'Courier New';
+    font-size: 25px;
+}
+input {
+    color:black;
+    text-align: center;
+    font-family: courier;
+    font-size: 25px;
+    height: 50px;
+    width:400px;
+}
+button {
+    color:rgb(6, 6, 28);
+    background-color: rgb(155, 155, 193);
+    text-align: center;
+    font-family: "Ariel";
+    font-size: 20px;
+    height: 30px;
+    width:200px;
+}
+a {
+    color: blue;
+    text-align: center;
+    font-family: "Ariel";
+    font-size: 20px;
+}

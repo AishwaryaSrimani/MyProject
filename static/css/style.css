@@ -1,0 +1,32 @@
+h1 {
+  color: rgb(21, 21, 52);
+}
+p{
+  color: black;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: 30px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: hsl(248, 87%, 25%);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+  font-size: 150%
+}
+
+li a:hover {
+  background-color: hsl(248, 91%, 69%);
+}
