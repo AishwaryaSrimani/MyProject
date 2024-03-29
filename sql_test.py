@@ -10,7 +10,7 @@ def home():
 
 db_config = {
         'user':'root', 
-        'password':'yashjha123',
+        'password':'**********',
         'host':'localhost',
         'database':'users'
     }
